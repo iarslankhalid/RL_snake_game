@@ -1,0 +1,8 @@
+pygame
+torch
+torchvision
+matplotlib
+plotly
+ipython
+jupyter
+numpy
